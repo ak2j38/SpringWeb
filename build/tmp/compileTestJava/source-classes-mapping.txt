@@ -1,0 +1,4 @@
+com/ak2j38/springweb/springboot/web/dto/HelloResponseDtoTest.java
+ com.ak2j38.springweb.springboot.web.dto.HelloResponseDtoTest
+com/ak2j38/springweb/springboot/web/HelloControllerTest.java
+ com.ak2j38.springweb.springboot.web.HelloControllerTest
